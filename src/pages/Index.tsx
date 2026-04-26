@@ -174,7 +174,7 @@ export default function Index() {
         style={{ background: "rgba(253,251,247,0.92)", backdropFilter: "blur(12px)", borderBottom: "1px solid #e8d4b0" }}
       >
         <a href="#" className="font-cormorant text-2xl font-light tracking-wide" style={{ color: "#2a2a2a" }}>
-          Яна Соколова
+          Яна Суханова
         </a>
         <div className="hidden md:flex items-center gap-8">
           {NAV_LINKS.map((l) => (
@@ -284,7 +284,7 @@ export default function Index() {
             />
             <img
               src={PHOTO_URL}
-              alt="Яна Соколова — психолог"
+              alt="Яна Суханова — психолог"
               className="relative rounded-3xl object-cover shadow-xl"
               style={{ width: "100%", maxWidth: "460px", height: "540px", objectFit: "cover", zIndex: 1 }}
             />
@@ -315,7 +315,7 @@ export default function Index() {
               О психологе
             </div>
             <h2 className="font-cormorant text-4xl md:text-5xl font-light mb-6 leading-tight" style={{ color: "#1a1a1a" }}>
-              Яна Соколова —<br />
+              Яна Суханова —<br />
               <em className="not-italic" style={{ color: "#3c643b" }}>клинический психолог</em>
             </h2>
             <p className="font-golos text-base leading-relaxed mb-6" style={{ color: "#5a5a5a" }}>
@@ -343,7 +343,7 @@ export default function Index() {
               <blockquote className="font-cormorant text-2xl md:text-3xl font-light italic leading-relaxed mb-6" style={{ color: "#305030" }}>
                 «Психотерапия — это не про бесконечные разговоры о прошлом. Это про то, чтобы жить иначе — уже сейчас.»
               </blockquote>
-              <div className="font-golos text-sm" style={{ color: "#6a7a6a" }}>— Яна Соколова</div>
+              <div className="font-golos text-sm" style={{ color: "#6a7a6a" }}>— Яна Суханова</div>
             </div>
           </div>
         </div>
@@ -745,7 +745,7 @@ export default function Index() {
       {/* FOOTER */}
       <footer className="py-8 px-6 md:px-12" style={{ background: "#1a2a1a" }}>
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
-          <span className="font-cormorant text-xl font-light" style={{ color: "#9fbf9d" }}>Яна Соколова</span>
+          <span className="font-cormorant text-xl font-light" style={{ color: "#9fbf9d" }}>Яна Суханова</span>
           <span className="font-golos text-xs" style={{ color: "#5a7a5a" }}>
             © 2026 · Психолог · Онлайн и Москва
           </span>
